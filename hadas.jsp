@@ -5,7 +5,7 @@
 </head>
 
 <body>
- Welcome to Hadas first JSP page now now now.
+ Welcome to Hadas personal website
 </body>
 
 </html>
